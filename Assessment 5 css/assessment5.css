@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(226, 231, 189);
+	text-align: center;
+}
+
+p{
+	
+	background-color: limegreen;
+	border: solid red 2px;
+	border-radius: 25px 0px;
+	font-weight: 100;
+	font-style: italic;	
+}
+
+h3{
+	font-family: monospace;
+	font-weight: 900;	
+	font-variant: small-caps;
+	font-style: oblique;
+}
+
+.a1{
+	font-style: oblique;
+}
+#b{
+	font-family: sans-serif;
+	font-weight: 900;	
+}
+
+*{
+	font-size:medium;
+}
