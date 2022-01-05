@@ -1,0 +1,26 @@
+body{
+	background-color: orange;
+	text-align: center;
+}
+ 
+p{
+	
+	background-color: limegreen;
+	border: solid red 2px;
+	border-radius: 25px 0px;
+	font-weight: 100;
+	font-style: italic;
+	
+}
+
+h3{
+	font-family: monospace;
+	font-weight: 900;	
+	font-variant: small-caps;
+	font-style: oblique;
+}
+
+
+.p1{
+	border: 2px solid red;
+}
